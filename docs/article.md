@@ -1,6 +1,6 @@
 # Article
 
-This file contains information articles.
+This file contains information about articles.
 
 ## Table of Contents
 * TOC
@@ -11,3 +11,9 @@ This file contains information articles.
 Articles have many amazing properties:
 - They exist.
 - They start with the letter "A"
+
+
+### This is a h3 heading
+
+
+## And this another h2
